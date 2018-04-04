@@ -1,0 +1,7 @@
+C:\Users\cj716\Desktop\repos\StudentTeacher\StudentTeacher\bin\Debug\StudentTeacher.exe.config
+C:\Users\cj716\Desktop\repos\StudentTeacher\StudentTeacher\bin\Debug\StudentTeacher.exe
+C:\Users\cj716\Desktop\repos\StudentTeacher\StudentTeacher\bin\Debug\StudentTeacher.pdb
+C:\Users\cj716\Desktop\repos\StudentTeacher\StudentTeacher\obj\Debug\StudentTeacher.csprojResolveAssemblyReference.cache
+C:\Users\cj716\Desktop\repos\StudentTeacher\StudentTeacher\obj\Debug\StudentTeacher.csproj.CoreCompileInputs.cache
+C:\Users\cj716\Desktop\repos\StudentTeacher\StudentTeacher\obj\Debug\StudentTeacher.exe
+C:\Users\cj716\Desktop\repos\StudentTeacher\StudentTeacher\obj\Debug\StudentTeacher.pdb
