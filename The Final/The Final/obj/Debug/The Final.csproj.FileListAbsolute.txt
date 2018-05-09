@@ -1,0 +1,7 @@
+C:\Users\cj716\source\repos\The Final\The Final\bin\Debug\The Final.exe.config
+C:\Users\cj716\source\repos\The Final\The Final\bin\Debug\The Final.exe
+C:\Users\cj716\source\repos\The Final\The Final\bin\Debug\The Final.pdb
+C:\Users\cj716\source\repos\The Final\The Final\obj\Debug\The Final.csprojResolveAssemblyReference.cache
+C:\Users\cj716\source\repos\The Final\The Final\obj\Debug\The Final.csproj.CoreCompileInputs.cache
+C:\Users\cj716\source\repos\The Final\The Final\obj\Debug\The Final.exe
+C:\Users\cj716\source\repos\The Final\The Final\obj\Debug\The Final.pdb
