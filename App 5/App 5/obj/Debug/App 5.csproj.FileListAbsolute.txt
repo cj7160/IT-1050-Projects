@@ -1,0 +1,7 @@
+C:\Users\cj716\source\repos\App 5\App 5\obj\Debug\App 5.csprojResolveAssemblyReference.cache
+C:\Users\cj716\source\repos\App 5\App 5\obj\Debug\App 5.csproj.CoreCompileInputs.cache
+C:\Users\cj716\source\repos\App 5\App 5\bin\Debug\App 5.exe.config
+C:\Users\cj716\source\repos\App 5\App 5\bin\Debug\App 5.exe
+C:\Users\cj716\source\repos\App 5\App 5\bin\Debug\App 5.pdb
+C:\Users\cj716\source\repos\App 5\App 5\obj\Debug\App 5.exe
+C:\Users\cj716\source\repos\App 5\App 5\obj\Debug\App 5.pdb
